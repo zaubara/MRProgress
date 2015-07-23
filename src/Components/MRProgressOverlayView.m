@@ -281,7 +281,8 @@ static void *MRProgressOverlayViewObservationContext = &MRProgressOverlayViewObs
                               NSStringFromClass(self.class));
                     #endif
                 } else {
-                    self.titleLabelText = (id)[[NSAttributedString alloc] initWithString:self.titleLabel.text attributes:_savedAttributes];
+                    NSString *str = self.titleLabel.text;
+                    self.titleLabelText = (id)[[NSAttributedString alloc] initWithString:str attributes:_savedAttributes];
                     _savedAttributes = nil;
                 }
             }
