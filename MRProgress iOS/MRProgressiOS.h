@@ -26,3 +26,7 @@ FOUNDATION_EXPORT const unsigned char MRProgress_iOSVersionString[];
 #import "MRNavigationBarProgressView.h"
 #import "MRProgressOverlayView.h"
 #import "MRWeakProxy.h"
+
+#import "MRMethodCopier.h"
+#import "MRProgressHelper.h"
+#import "MRStopButton.h"
