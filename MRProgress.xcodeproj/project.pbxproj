@@ -28,12 +28,12 @@
 		21F7F2711BEA288400ACE9C5 /* MRIconView.h in Headers */ = {isa = PBXBuildFile; fileRef = 710BD59F1817353E00654750 /* MRIconView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		21F7F2721BEA288400ACE9C5 /* MRNavigationBarProgressView.h in Headers */ = {isa = PBXBuildFile; fileRef = 710BD5A31817353E00654750 /* MRNavigationBarProgressView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		21F7F2731BEA288400ACE9C5 /* MRProgressOverlayView.h in Headers */ = {isa = PBXBuildFile; fileRef = 710BD5A51817353E00654750 /* MRProgressOverlayView.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		21F7F2741BEA288400ACE9C5 /* MRProgressView.h in Headers */ = {isa = PBXBuildFile; fileRef = 717B67D7193A813300829442 /* MRProgressView.h */; };
+		21F7F2741BEA288400ACE9C5 /* MRProgressView.h in Headers */ = {isa = PBXBuildFile; fileRef = 717B67D7193A813300829442 /* MRProgressView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		21F7F2761BEA288400ACE9C5 /* MRStopButton.h in Headers */ = {isa = PBXBuildFile; fileRef = 29CE9677186E0129006006B0 /* MRStopButton.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		21F7F2771BEA288400ACE9C5 /* MRMessageInterceptor.h in Headers */ = {isa = PBXBuildFile; fileRef = 710BD5A81817353E00654750 /* MRMessageInterceptor.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		21F7F2781BEA288400ACE9C5 /* MRProgressHelper.h in Headers */ = {isa = PBXBuildFile; fileRef = 710BD5AA1817353E00654750 /* MRProgressHelper.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		21F7F2791BEA288400ACE9C5 /* MRWeakProxy.h in Headers */ = {isa = PBXBuildFile; fileRef = 710BD5AB1817353E00654750 /* MRWeakProxy.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		21F7F27A1BEA288400ACE9C5 /* MRMethodCopier.h in Headers */ = {isa = PBXBuildFile; fileRef = 717B67D3193A2CC100829442 /* MRMethodCopier.h */; };
+		21F7F27A1BEA288400ACE9C5 /* MRMethodCopier.h in Headers */ = {isa = PBXBuildFile; fileRef = 717B67D3193A2CC100829442 /* MRMethodCopier.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		21F7F27C1BEA2A4300ACE9C5 /* MRProgressiOS.h in Headers */ = {isa = PBXBuildFile; fileRef = 21B8503C1BEA27B60096A584 /* MRProgressiOS.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		21F7F27F1BEA2D2A00ACE9C5 /* MRStopableView.h in Headers */ = {isa = PBXBuildFile; fileRef = 299730941881CB520022B27B /* MRStopableView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		29CE9679186E0129006006B0 /* MRStopButton.h in Headers */ = {isa = PBXBuildFile; fileRef = 29CE9677186E0129006006B0 /* MRStopButton.h */; settings = {ATTRIBUTES = (Public, ); }; };
